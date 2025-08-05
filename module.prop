@@ -1,0 +1,6 @@
+id=hide_bootloader_status
+name=HideBootloaderStatus
+version=1.0
+versionCode=1
+author=sadiq
+description=Hide Bootloader Status Globally
